@@ -1,0 +1,35 @@
+Wed Mar 30 08:44:37 2016: Starting LoggerThread
+Wed Mar 30 08:44:37 2016: Waiting for connection
+Wed Mar 30 13:37:18 2016: Starting LoggerThread
+Wed Mar 30 13:37:18 2016: Waiting for connection
+Wed Mar 30 13:37:53 2016: Got connection from ('127.0.0.1', 55342)
+Wed Mar 30 13:37:53 2016: Starting ReadThread-1
+Wed Mar 30 13:37:53 2016: Starting WriteThread-1
+Wed Mar 30 13:37:53 2016: Waiting for connection
+Wed Mar 30 13:38:22 2016:  had a connection problem.
+Wed Mar 30 13:38:22 2016: Exiting ReadThread-1
+Wed Mar 30 13:38:23 2016: Socket problem in WriteThread-1
+Wed Mar 30 13:38:23 2016: Closing socket ('127.0.0.1', 55342)
+Wed Mar 30 13:38:23 2016: Exiting WriteThread-1
+Wed Mar 30 13:40:35 2016: Starting LoggerThread
+Wed Mar 30 13:40:35 2016: Waiting for connection
+Wed Mar 30 13:49:11 2016: Starting LoggerThread
+Wed Mar 30 13:49:11 2016: Waiting for connection
+Wed Mar 30 14:41:11 2016: Starting LoggerThread
+Wed Mar 30 14:41:11 2016: Waiting for connection
+Wed Mar 30 14:41:52 2016: Got connection from ('127.0.0.1', 50255)
+Wed Mar 30 14:41:52 2016: Starting ReadThread-1
+Wed Mar 30 14:41:52 2016: Starting WriteThread-1
+Wed Mar 30 14:41:52 2016: Waiting for connection
+Sat Apr 23 19:30:49 2016: Starting LoggerThread
+Sat Apr 23 19:30:49 2016: Waiting for connection
+Sat Apr 23 19:30:55 2016: Got connection from ('127.0.0.1', 58093)
+Sat Apr 23 19:30:55 2016: Starting ReadThread-1
+Sat Apr 23 19:30:55 2016: Starting WriteThread-1
+Sat Apr 23 19:30:55 2016: Waiting for connection
+Sun Apr 24 21:17:26 2016: Starting LoggerThread
+Sun Apr 24 21:17:26 2016: Waiting for connection
+Sun Apr 24 21:17:35 2016: Got connection from ('127.0.0.1', 52609)
+Sun Apr 24 21:17:35 2016: Starting ReadThread-1
+Sun Apr 24 21:17:35 2016: Starting WriteThread-1
+Sun Apr 24 21:17:35 2016: Waiting for connection
